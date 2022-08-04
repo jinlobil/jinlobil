@@ -35,7 +35,8 @@
       </br></div>
       </br></br>
       
- ![jinlobil's GitHub stats](https://github-readme-stats.vercel.app/api?username=horang-e&hide=contribs,prs&bg_color=657FA6&text_color=FFFFFF&title_color=FFFFFF)
+      
+ ![jinlobil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinlobil&hide=contribs,prs&bg_color=657FA6&text_color=FFFFFF&title_color=FFFFFF)
       
 
 
